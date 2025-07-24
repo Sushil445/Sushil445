@@ -41,7 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📫 Connect With Me
-- ✉️ Email: `sushilshidore445@gmail.com`  
+- ✉️ Email: `sushilshidore44@gmail.com`  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sushil-shidore44/)  
 - 💻 [Portfolio (coming soon)](#)
 
